@@ -1,1 +1,2 @@
 git rules for Colne
+and this line added from local repo
